@@ -40,7 +40,6 @@ console.log(x);
 let PI = 3.1415 ;
 
 
-
 //Clean code : 
 // Make sure that the variable names are descriptive 
 // بتعبر عن دورها 
